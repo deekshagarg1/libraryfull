@@ -1,0 +1,152 @@
+@media only screen and (max-width:550px){
+#inp1{
+    display:none;
+}
+
+.nav-left1{
+    display: none;
+}
+
+
+#btn2{
+    display: block;
+    float: right;
+    margin-left: 100px;
+    outline: none;
+    border: none;
+
+}
+
+
+}
+
+
+.dot-list.active{
+    display: flex;
+}
+
+
+
+@media only screen and (max-width:800px){
+    .nav-left{
+display: none;
+    }   
+      .nav-logo{  display: flex;
+        align-items: center;
+        justify-content:space-evenly;
+        /* border: 1px solid rgb(63, 6, 6); */
+        width: 35%;
+      }
+
+      .nav-left1{
+        width: 47%;}
+
+.nav-dot{
+    display: block;
+}
+
+
+/* -------------home-------------------------- */
+.home-main{
+    height: auto;
+}
+
+.home-main h1{
+    font-size: 5rem;
+}
+.home-main center{
+    font-size: 1.5rem;
+}
+.home-main1 button{
+    width: 30%;
+}
+.home-main1 button a{
+    font-size: 1.4rem;}
+
+    .home-center1{
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+
+.home-center{
+    height: auto;
+}
+
+    .home-center1 h1{
+        margin-top: 50px;
+        font-size: 2.5rem;
+        color: black;
+      }
+
+      .center2{
+        width: 95%;
+        height:auto;
+        margin-bottom: 40px;
+        /* border: 1px solid red;  */
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+.c1{
+    width: 220px;
+    margin-bottom: 40px;
+}
+.slider2{
+    flex-wrap: wrap;
+    /* display: flex; */
+    flex-direction: column;
+    /* font-size:3rem ; */
+}
+.slider3{
+    flex-wrap: wrap;
+}
+/* .slider-container{flex-wrap: wrap;} */
+
+.slider4{
+    color: black;
+    background-color:rgba(232, 114, 232, 0.71);
+    width: 85%;
+    height: 290px;
+    /* gap: 40px; */
+    display: block;
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+  
+  }
+
+  .f2{
+    height: auto;
+    flex-direction: column;
+  }
+
+  .f2a{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+  }
+  /* .slider3{
+    display: none;
+  } */
+
+.f2aa{
+    margin-top: 20px;
+    width: 70%;
+    height: 200px;
+    margin-bottom: 70px;
+}
+.md{
+    height: auto;
+    margin-bottom: 1px;
+}
+
+.r1{
+    height: auto;
+}
+}
+
+
